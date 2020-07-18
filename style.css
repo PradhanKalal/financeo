@@ -1,0 +1,33 @@
+
+h1{
+	background-color: black;
+	text-align: center;
+	padding: 10px;
+	color: white;
+}		
+form{
+	text-align: center;
+	
+}
+table{
+	margin-top: 100px;
+}
+footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+footer ul{
+	text-align: left;
+	list-style: none;
+}
+li{
+	display: inline;
+	margin : 150px;
+}
+li a{
+	color: white;
+}
+p{
+	margin-right: 200px;
+}
